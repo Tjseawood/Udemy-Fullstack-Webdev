@@ -1,0 +1,19 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "Projects from my fullstack web dev udemy course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tjseawood/udemy-fullstack-webdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tjseawood/udemy-fullstack-webdev/issues"
+  },
+  "homepage": "https://github.com/Tjseawood/udemy-fullstack-webdev#readme"
+}
